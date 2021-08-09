@@ -2,6 +2,8 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  background-color: black;
+  color:white;
 }
 
 html {
@@ -30,5 +32,14 @@ button{
     padding: 10px;
     border:2px ssolid black;
     border-radius:10px;
+    color:black;
+    text-transform: uppercase;
+    font-weight:bold;
+}
+
+a {
+  position: absolute;
+  bottom: 0;
+  color: yellow;
 }
 
